@@ -1,16 +1,106 @@
-## Hi there 👋
+## 你好，欢迎来到我的 GitHub 👋
 
-<!--
-**Lyx3ZzSs/Lyx3ZzSs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **热衷于系统思维**  
+  我喜欢从整体视角理解和优化系统架构，专注于构建高效、可靠、可扩展的解决方案。相信技术的核心在于解决实际问题，而不是局限于某种工具或框架。
+
+- 🌱 **持续探索的方向**
+
+  - 关注复杂系统的设计与演化，追求架构的高可用性和灵活性。
+  - 研究如何在分布式环境中实现系统性能的最优平衡。
+  - 思考从系统整体性出发，如何更好地协调资源调度、数据流转和业务逻辑。
+
+- ⚡ **我的设计理念**
+
+  - 系统的复杂性是可以被拆解和管理的，清晰的模块化设计能带来长期的稳定性和灵活性。
+  - 优秀的架构应兼顾当前需求和未来发展，既要“好用”，也要“可持续演进”。
+  - 解决问题不仅是找到答案，更是选择对业务最合适的方案。
+
+### 🚀 我的技术栈
+
+在系统设计与开发中，我注重技术的深度和适用性，常用以下技术工具和框架：
+
+#### 后端技术
+
+- **Java**：核心开发语言，专注于高性能后端服务的实现。
+- **Spring 全家桶**：简化企业级服务开发，支持微服务架构与模块化设计。
+- **MyBatis/Mybatis-plus**：高效的数据持久层框架，用于复杂查询与数据操作。
+- **Redis**：高性能缓存与分布式锁解决方案，提升系统响应速度。
+
+#### 分布式与架构
+
+- **RabbitMQ/Kafka/RocketMQ**：消息队列，用于异步通信和数据流转。
+- **Consul**：提供分布式系统中的服务注册与健康检查，支持微服务架构的动态扩展。
+- **Etcd**：高性能分布式键值存储，用于配置管理与数据一致性保证。
+- **Nginx**：反向代理与负载均衡，提升系统的可用性与吞吐量。
+
+#### 数据库与存储
+
+- **MySQL**：关系型数据库设计与优化，支持复杂查询与事务处理。
+- **ElasticSearch**：全文检索与日志分析，提升大数据处理能力。
+- **Postgresql**：文档型数据库，支持高效的非结构化数据存储。
+- **MinIO**：分布式文件系统，用于海量数据的存储与管理。
+
+#### DevOps 工具
+
+- **Docker**：容器化微服务，简化部署流程并提升可移植性。
+- **Kubernetes**：容器编排与管理，实现高可用的服务部署。
+- **Prometheus + Grafana**：系统监控与性能可视化，支持实时预警与问题排查。
+
+---
+
+## 我始终相信技术是为解决问题服务的，选择合适的工具并结合实际需求，才能构建出真正高效且可靠的系统。
+
+### 📊 我的 GitHub 数据
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lyx3ZzSs&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyx3ZzSs&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+### 🚀 我的技术栈
+
+在我的工作中，常用到以下技术工具和框架，但我一直保持探索新技术的好奇心：
+
+#### 后端技术
+
+- **Java & Spring Boot**：企业级服务开发和性能优化。
+- **OSHI**：实现系统监控和硬件信息采集。
+- **Nginx**：解决跨域问题并搭建高性能负载均衡。
+
+#### 前端技术
+
+- **Vue.js**：打造灵活、现代的交互式前端界面。
+- **ECharts**：将数据可视化做到极致，为业务决策提供支撑。
+- **OnlyOffice**：文档协作的集成与扩展。
+
+#### DevOps 工具
+
+- **Docker**：容器化微服务，简化部署流程。
+- **GitHub Actions**：自动化构建与部署，提升开发效率。
+
+---
+
+### 📈 Metrics
+
+<div align="center">
+  <img src="https://github-metrics.vercel.app/api?username=Lyx3ZzSs" alt="Metrics" />
+</div>
+
+---
+
+### 📫 联系方式
+
+- 📧 邮箱：lyx971228@163.com
+- 🌐 个人公众号：**敬请期待！**
+
+---
+
+💡 **感谢你的到访！**
+真正难忘的记忆，就像代码的底层逻辑，潜藏在层层代码之下，但只要被调用，就会一瞬回溯，清晰无比。时间可以抹去一些无关紧要的记忆，而真正重要的，会在时光的河里开出花来。我始终相信，技术的价值也如记忆一般，唯有用心构建、经得住时光考验的架构，才能在未来绽放光彩。
+
