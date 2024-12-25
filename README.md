@@ -61,7 +61,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lyx3ZzSs&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyx3ZzSs&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Metrics" />
 </div>
+
+
 
 ---
 
